@@ -1,0 +1,8 @@
+.wrap_container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.custom-modal-close-btn {
+    filter: brightness(0) invert(1);
+}
